@@ -1,10 +1,10 @@
 # Note-Taker
 ## Unit 11 Express Homework: Note Taker
 
-This is a note taking application which can be invoked with the following code. 
+This is a note taking application which can be started with the following code. 
 
 ```sh
-npm start
+node server
 ```
 
 Generated Html 
